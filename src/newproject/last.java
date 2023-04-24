@@ -12,5 +12,6 @@ public class last {
 		System.out.println("");
 		}
 System.out.println("done with changes");
+System.out.println("done with new change");
 }
 }
