@@ -12,5 +12,6 @@ public class last {
 		System.out.println("");
 		}
 System.out.println("this is maim");
+System.out.println("this is maim");
 }
 }
